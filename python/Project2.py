@@ -75,7 +75,7 @@ def guesser():
         elif len(user_input) != 1:
             print("Please enter one character at a time.")
             time.sleep(1)
-    # If all blanks are missing end user has guessed the hidden word
+    # If all blanks are missing end user has guessed the hidden word.
     if not '-' in hidden_word or user_input == word:
         winner()
 
@@ -84,11 +84,11 @@ def guesser():
         print("")
         print('Loser!', end=' ')
 
-    # Displays the hidden word
+    # Displays the hidden word.
     print('The word was %s.' % word)
     time.sleep(2)
 
-# Gives the end user an option to play again
+# Gives the end user an option to play again.
 while done != "y":
     guesser()
     print("\n")
