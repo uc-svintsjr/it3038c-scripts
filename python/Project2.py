@@ -1,7 +1,6 @@
 #Name: Joseph Svintsitsky
 #Module: Project 2
-#Assignment: Find a plugin or module that you find useful 
-#and implement it into a script in a unique and creative way.
+#Assignment: Find a plugin or module that you find useful and implement it into a script in a unique and creative way.
 #Due Date: 10/31/2021
 #Resources: Coworker Matt West and https://cuny.manifoldapp.org/read/how-to-code-in-python-3/section/a07cdae8-713a-4c9a-adb1-63cf5b0006b5
  
