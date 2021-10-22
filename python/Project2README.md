@@ -9,3 +9,23 @@ pip install time
 ```
 pip install random
 ```
+You will also need to download the wordslist file to be prompted your Halloween words
+```
+python it3038-scripts/python/wordslist.txt
+```
+Now, from the it3038c-scripts directory, run the program using Python
+```
+python it3038-scripts/python/Project2.py
+```
+First, you'll be given a hidden message like so
+```
+hidden message
+```
+If you guess the wrong letter
+```
+wrong
+```
+If you guess the correct letter
+```
+correct
+```
