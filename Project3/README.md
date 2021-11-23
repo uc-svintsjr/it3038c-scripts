@@ -10,5 +10,10 @@ pip install numpy
 pip install tkinter
 pip intall keyboard
 ```
-Now that you have the file open in Visual Studio and have all the modules installed press **`Ctrl+ F5`** to run the script.<br><br> Visual Studio will prompt a window saying **`"Do you trust the authors of the files in this workspace`"**. You will click **`"Trust Workspace & Continue"`**. Lastly, Visual Studio will prompt a second window saying **`"You don't have an extension for debugging Python"`**. *"Should we find a Python extension in the Marketplace"*. Click **`"Find Python extension`"**. In the bottom right corner of Visual Studio it will have a window saying **`"Python extension is now installed"`**. You're now ready to play the game!<br>
+Now that you have the file open in Visual Studio and have all the modules installed press **`Ctrl+ F5`** to run the script.<br><br> Visual Studio will prompt a window saying **`"Do you trust the authors of the files in this workspace`"**. You will click **`"Trust Workspace & Continue"`**. Lastly, Visual Studio will prompt a second window saying **`"You don't have an extension for debugging Python"`**. *"Should we find a Python extension in the Marketplace"*. Click **`"Find Python extension`"**. In the bottom right corner of Visual Studio it will have a window saying **`"Python extension is now installed"`**. You're now ready to play the game!<br>  
+Example of Starting Window
+
+![Start](https://user-images.githubusercontent.com/55462386/142956962-1bcbff85-fd0c-4b7b-b181-6e3195d930d8.PNG)<br>
+Example of Game Over<br>
+![GameOver](https://user-images.githubusercontent.com/55462386/142957144-b621454b-4414-4b9e-9a90-18f937dbc6c4.PNG)
 
